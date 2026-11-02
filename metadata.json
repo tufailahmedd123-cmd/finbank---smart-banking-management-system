@@ -1,0 +1,6 @@
+{
+  "name": "FinBank — Smart Banking Management System",
+  "description": "Exhibition-ready banking management system featuring role-based dashboards, customer & account management, transaction simulation, statements, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

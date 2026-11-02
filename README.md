@@ -1,2 +1,20 @@
-# finbank---smart-banking-management-system
-FinBank is a modern, responsive Smart Banking Management System designed to simplify digital banking operations. It features customer account management, deposits, withdrawals, fund transfers, transaction history, balance tracking, and an intuitive dashboard, providing a secure, efficient, and user-friendly banking experience.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/664885df-952f-4f2e-a8a2-76b80ce0889c
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
